@@ -19,6 +19,8 @@ Further this semi-structured data is structured using flatted function and saved
 
 The ETL was build using dbt to get the data in required format for analysis
 
+![image](https://github.com/mukulsagvekar/case-study-snowflake-dbt-tableau/assets/83829614/7bde0bb9-eeb5-49ea-a8ae-7a528a0db2d4)
+
 ![image](https://github.com/mukulsagvekar/case-study-snowflake-dbt-tableau/assets/83829614/af45817f-34bc-4324-ae33-90364ce55307)
 
 
